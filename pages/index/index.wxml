@@ -1,0 +1,6 @@
+<view>
+    <wave-banner />
+    <view style = "text-align: center; margin-top: 100rpx">
+        内容
+    </view>
+</view>
